@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="settings">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$APPLICATION_CONFIG_DIR$/settings.jar!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
