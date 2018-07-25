@@ -28,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MVC/src/main/java/com/transphilly/Controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="450">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ionic-googleMaps-api/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -62,6 +62,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -2628,8 +2631,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="59" />
+    <option name="x" value="60" />
+    <option name="y" value="56" />
     <option name="width" value="1514" />
     <option name="height" value="799" />
   </component>
@@ -2644,39 +2647,6 @@
             <path>
               <item name="TransPhilly" type="b2602c69:ProjectViewProjectNode" />
               <item name="TransPhilly" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TransPhilly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TransPhilly" type="462c0819:PsiDirectoryNode" />
-              <item name="bus-route-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TransPhilly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TransPhilly" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-google-maps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TransPhilly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TransPhilly" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-googleMaps-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TransPhilly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TransPhilly" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-googleMaps-api" type="462c0819:PsiDirectoryNode" />
-              <item name="GoogleMaps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TransPhilly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TransPhilly" type="462c0819:PsiDirectoryNode" />
-              <item name="ionic-googleMaps-api" type="462c0819:PsiDirectoryNode" />
-              <item name="GoogleMaps" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TransPhilly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TransPhilly" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2795,15 +2765,15 @@
       <workItem from="1531938585854" duration="25000" />
       <workItem from="1531942646959" duration="20000" />
       <workItem from="1532469537144" duration="444000" />
-      <workItem from="1532472089192" duration="4545000" />
+      <workItem from="1532472089192" duration="6565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5034000" />
+    <option name="totallyTimeSpent" value="7054000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-108" y="64" width="1655" height="836" extended-state="0" />
+    <frame x="60" y="56" width="1514" height="799" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -2820,8 +2790,8 @@
       <window_info id="Capture Tool" order="4" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23992561" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.026038438" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2629076" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.02853261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
@@ -2843,16 +2813,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MVC/src/main/java/com/transphilly/Controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MVC/ReadMe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -2880,12 +2840,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bus-route-service/data/sample.brd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/ionic-googleMaps-api/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVC/src/main/java/com/transphilly/Controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
